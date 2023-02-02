@@ -1,3 +1,4 @@
 # coursera-test
 coursera test repository
-theme: midnight
+# Build settings
+theme: Midnight
